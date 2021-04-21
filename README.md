@@ -1,5 +1,5 @@
 # Assignment 6 React/Firebase
-The project was created using the create react app project [Create React App](https://github.com/facebook/create-react-app).
+The project was created using the create react app project -> [Create React App](https://github.com/facebook/create-react-app).
 
 ##  This project includes the following modules
 styled-components
