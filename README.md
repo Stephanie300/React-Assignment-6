@@ -3,10 +3,15 @@ The project was created using the create react app project -> [Create React App]
 
 ##  This project includes the following modules
 styled-components
+
 svgo
+
 @svgr/cli
+
 node-sass
+
 firebase
+
 react-router-dom
 
 ## Before you start
